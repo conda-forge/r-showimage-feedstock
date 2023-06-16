@@ -1,11 +1,11 @@
-About r-showimage
-=================
+About r-showimage-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-showimage-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/showimage#readme
 
 Package license: GPL-2 | GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-showimage-feedstock/blob/main/LICENSE.txt)
 
 Summary: Sometimes it is handy to be able to view an image file on an 'R' graphics device. This package just does that. Currently it supports 'PNG' files.
 
